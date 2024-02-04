@@ -1,0 +1,63 @@
+# Rhino
+newmtl diffuse_0
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl intro museo
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd intro museo.png
+newmtl tavolo 2 (1)
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd tavolo 2.png
+newmtl diffuse_Fuchsia
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 0.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Beautiful (4)
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 204.0000
+map_Kd Beautiful meadow in the park featuring park, tree, and sky.jpeg
+newmtl città.png
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 255.0000
+map_Kd città.png
+newmtl Free Photo
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 0.8000 0.8000 0.8000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 204.0000
+map_Kd Free Photo _ The skyscraper.png
+newmtl rm ns (4)
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd rm ns.png
